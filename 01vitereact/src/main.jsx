@@ -6,6 +6,5 @@ import Test from './Test.jsx'
 createRoot(document.getElementById('root')).render(
   <>
     <Test />
-    <h1>Akshay</h1>
   </>,
 )
